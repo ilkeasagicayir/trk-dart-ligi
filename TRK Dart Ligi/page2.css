@@ -1,0 +1,41 @@
+#header {
+    width: 1000px;
+    text-align: center;
+    margin: auto;
+    padding: 3px;
+    background-color: rgb(218, 59, 47);
+}
+
+#body {
+    width: 1000px;
+    font-size: 30px;
+    text-align: center;
+    margin: auto;
+    padding: 65px;
+}
+
+#body table{
+    border: 2px solid rgb(0, 0, 0);
+    margin: auto;
+    width: 850px;
+    background-color: rgb(238, 237, 237);
+}
+
+#body table thead{
+    background-color: rgb(218, 59, 47);
+}
+
+#body table input[type="text" i]{
+    padding: 4px;
+    height: 25px;
+    width:-webkit-fill-available;
+    border: 1px solid rgb(175, 174, 174);
+}
+
+#save {
+    font-size: 18px;
+    width: 200px;
+    height: 30px;
+    border: 3px solid  rgb(218, 59, 47);
+    background-color: rgb(175, 174, 174);
+}

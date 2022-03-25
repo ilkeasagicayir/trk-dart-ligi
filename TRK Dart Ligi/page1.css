@@ -1,0 +1,40 @@
+#header {
+    width: 1000px;
+    text-align: center;
+    margin: auto;
+    padding: 3px;
+    background-color: rgb(218, 59, 47);
+}
+
+#body {
+    width: 1000px;
+    font-size: 30px;
+    text-align: center;
+    margin: auto;
+    padding: 65px;
+}
+
+#body .form{
+    margin: auto;
+    width: 900px;
+    padding: inherit;
+}
+
+#body .form input[type="number"] {
+    height: 25px;
+    border: 3px solid  rgb(218, 59, 47);
+}
+
+#body .form button {
+    font-size: 18px;
+    width: 200px;
+    height: 30px;
+    border: 3px solid  rgb(218, 59, 47);
+    background-color: rgb(175, 174, 174);
+}
+
+#footer {
+    text-align: center;
+    margin-bottom: 0px;
+    font-size: 20px;
+}
